@@ -65,6 +65,7 @@ This will:
 ```bash
 python main.py eval
 ```
+<img width="383" height="160" alt="image" src="https://github.com/user-attachments/assets/240f12d5-e0ae-4747-9733-a0905b708b21" />
 
 This will:
 
@@ -88,13 +89,17 @@ http://127.0.0.1:8000/docs
 ---
 
 ### 🔹 7. Test Prediction
+<img width="896" height="646" alt="Screenshot 2026-04-24 121928" src="https://github.com/user-attachments/assets/0d698391-8985-4c49-b67c-e5574c0370cb" />
 
 * Go to `/predict`
 * Click **Try it out**
 * Upload an image (jpg/png)
+  <img width="200" height="216" alt="cat_test_pic" src="https://github.com/user-attachments/assets/ff25ebc5-f589-4139-99a9-34b1c59ac1f7" />
+
 * Click **Execute**
 
 Example output:
+<img width="847" height="299" alt="Screenshot 2026-04-24 122117" src="https://github.com/user-attachments/assets/c006a550-5acb-4f3b-bf0f-7428401266df" />
 
 ```json
 {
