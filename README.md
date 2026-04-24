@@ -55,7 +55,12 @@ This will:
 * Print accuracy & sparsity
 * Generate plots:
 
+  <img width="741" height="500" alt="image" src="https://github.com/user-attachments/assets/1d23cf28-f40b-4364-a29a-2b730e1f5808" />
+
   * `lambda_tradeoff.png`
+
+ <img width="712" height="488" alt="image" src="https://github.com/user-attachments/assets/57d00233-d76c-41c8-94f4-a5853defbd1f" />
+
   * `gate_distribution.png`
 
 ---
